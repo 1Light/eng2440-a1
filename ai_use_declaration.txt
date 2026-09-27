@@ -1,0 +1,23 @@
+AI USE DECLARATION
+
+Student: Nasir Adem Degu
+Student ID: 25011150
+Course: ENG 2440 Medical Imaging & AI in Healthcare
+Assignment 1 – Pneumonia Classification Challenge
+
+AI tool used: ChatGPT (OpenAI)
+
+Purpose and use of the AI tool:
+
+- To explain concepts throughout the assignment, for example operating thresholds, calibration, and prevalence shift.
+- To check whether my understanding and approaches were correct
+- To provide advice on modeling choices. For example, I initially considered ResNet18, but the AI model suggested DenseNet121 as a more suitable choice for chest-radiograph classification.
+- For coding and debugging support 
+- For guidance on how to launch and access the Jupyter notebook through the web interface on the campus computing cluster.
+- To polish my writing and also check that my interpretations were supported by the results without overclaiming.
+- To help organize and convert the final report into LaTeX.
+
+Parts of the submission affected
+
+- Code repository
+- Assignment report

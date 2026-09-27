@@ -1,0 +1,7 @@
+data/
+*.dcm
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+assignment1_labels.csv
+rsna_to_nih_mapping.csv
