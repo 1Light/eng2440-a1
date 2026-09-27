@@ -38,7 +38,7 @@ It also includes two additional experiments:
 
 - `25011150_ENG2440_A1.ipynb`: fully executed assignment notebook.
 - `requirements.txt`: direct Python dependencies used by the notebook.
-- `ai use declaration.txt`: declaration of generative-AI assistance used during the assignment.
+- `ai_use_declaration.txt`: declaration of generative-AI assistance used during the assignment.
 - `.gitignore`: prevents the medical-image dataset, supplied data files, and generated/local files from being committed.
 
 ## Dataset
@@ -63,7 +63,7 @@ Before running the notebook, place the supplied CSV files in the project root an
 ├── assignment1_labels.csv
 ├── rsna_to_nih_mapping.csv
 ├── requirements.txt
-├── ai use declaration.txt
+├── ai_use_declaration.txt
 ├── README.md
 └── .gitignore
 ```
